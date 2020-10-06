@@ -1,4 +1,3 @@
-# testgpages
-my test gpages
+# Personal website
 
 hello my world
